@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class Retrodevhelper < Formula
   desc "Helper tool for Retro Game Development Written in Rust"
   homepage "https://github.com/studioripe/retrodevhelper/"
   url "https://github.com/studioripe/retrodevhelper/releases/latest/download/retrodevhelper-mac.tar.gz"
